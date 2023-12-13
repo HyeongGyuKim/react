@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HyeongGyuKim/react/static/css/main.2c516c4a.css",
-    "main.js": "/HyeongGyuKim/react/static/js/main.8137d36c.js",
-    "static/js/787.774594b4.chunk.js": "/HyeongGyuKim/react/static/js/787.774594b4.chunk.js",
-    "index.html": "/HyeongGyuKim/react/index.html",
-    "main.2c516c4a.css.map": "/HyeongGyuKim/react/static/css/main.2c516c4a.css.map",
-    "main.8137d36c.js.map": "/HyeongGyuKim/react/static/js/main.8137d36c.js.map",
-    "787.774594b4.chunk.js.map": "/HyeongGyuKim/react/static/js/787.774594b4.chunk.js.map"
+    "main.css": "/react/static/css/main.2c516c4a.css",
+    "main.js": "/react/static/js/main.94dee758.js",
+    "static/js/787.774594b4.chunk.js": "/react/static/js/787.774594b4.chunk.js",
+    "index.html": "/react/index.html",
+    "main.2c516c4a.css.map": "/react/static/css/main.2c516c4a.css.map",
+    "main.94dee758.js.map": "/react/static/js/main.94dee758.js.map",
+    "787.774594b4.chunk.js.map": "/react/static/js/787.774594b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c516c4a.css",
-    "static/js/main.8137d36c.js"
+    "static/js/main.94dee758.js"
   ]
 }
